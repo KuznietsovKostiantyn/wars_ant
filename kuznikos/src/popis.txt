@@ -1,0 +1,10 @@
+Ant Wars
+
+Hra je zalozena na hre Tentacle Wars. Ve hre se zucastni jeden hrac proti druhemu. Je to tahova hra. Vyhrava ten, kdo prvni znici mraveniste nepritele.
+Mravenci se bojuji proti sobe a takovym zousobym se zabijeji jeden druheho. Mraveniste je znicene, prave kdyz vsechny mravenci z tohoto mraveniste jsou mrtvi.
+
+Rozmyšlený polymorfismus - kde v práci pomůže a kde se uplatní:
+1. Kresleni mapy(kresleni hranic, mravenist, ruznych typu mravencu)
+2. Pohyb na mape(ruzna rychlost pro ruzne typy mravencu, ruzne moznosti)
+3. Pri nacteni ze souboru ruznych map.
+4. Ukldani do souboru ruznych typu mravencu.
